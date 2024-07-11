@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <noscript>*</noscript>
+    </body>
+
 <?php
 session_start();
 if(isset($_SESSION['name'])){
